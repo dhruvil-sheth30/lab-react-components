@@ -1,5 +1,4 @@
 // Images.jsx
-import React from 'react';
 
 const Images = ({ imageData }) => {
   return (
